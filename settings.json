@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "becareful it an anarchy server",
+        "welcome  to peakssmp!",
+        "Funfact: did you know heli is gay!"
       ]
     },
     "chat-log": true,
